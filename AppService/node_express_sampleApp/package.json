@@ -21,7 +21,7 @@
     "pug": "^3.0.1",
     "serve-favicon": "^2.3.0",
     "natives": "^1.1.6",
-    "@snyk/protect": "latest"
+    "@snyk/protect": "1.1237.0"
   },
   "engines": {
     "node": ">6.0.0"
